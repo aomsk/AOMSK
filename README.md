@@ -1,4 +1,4 @@
-<h2>👋 Hi I'm Sipang</h2>
+<h1>👋 Hi I'm Sipang</h1>
 <h4>I want to be a Web Developer.</h4>
 
 ## Skills : 
