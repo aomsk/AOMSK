@@ -20,6 +20,7 @@ I want to be a Web Developer or Mobile  Developer.😍😍
 [![express](https://img.shields.io/static/v1?label=&message=express&color=%231b1b1b&style=for-the-badge&logo=express)](https://)
 [![node js](https://img.shields.io/static/v1?label=&message=node+js&color=%231b1b1b&style=for-the-badge&logo=nodedotjs)](https://)
 [![mysql](https://img.shields.io/static/v1?label=&message=mysql&color=%231b1b1b&style=for-the-badge&logo=mysql)](https://)
+[![phpmyadmin](https://img.shields.io/static/v1?label=&message=phpmyadmin&color=%231b1b1b&style=for-the-badge&logo=phpmyadmin&logoColor=%236C78AF)](https://)
 [![mongodb](https://img.shields.io/static/v1?label=&message=mongodb&color=%231b1b1b&style=for-the-badge&logo=mongodb)](https://)
   
 #### Design and Development Tools
