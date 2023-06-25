@@ -15,7 +15,6 @@ I want to be a Web Developer or Mobile  Developer.😍😍
 [![vue.js](https://img.shields.io/static/v1?label=&message=vue.js&color=%231b1b1b&style=for-the-badge&logo=vuedotjs)](https://)
 [![bootstrap](https://img.shields.io/static/v1?label=&message=bootstrap&color=%231b1b1b&style=for-the-badge&logo=bootstrap)](https://)
 [![tailwind css](https://img.shields.io/static/v1?label=&message=tailwind+css&color=%231b1b1b&style=for-the-badge&logo=tailwindcss)](https://)
-[![bulma](https://img.shields.io/static/v1?label=&message=bulma&color=%231b1b1b&style=for-the-badge&logo=bulma)](https://)
 [![vite](https://img.shields.io/static/v1?label=&message=vite&color=%231b1b1b&style=for-the-badge&logo=vite)](https://)
 
 #### Backend Development and Database
