@@ -1,7 +1,9 @@
 <h1>👋 Hi I'm Sipang</h1>
-I want to be a Web Developer or Mobile  Developer.😍😍
+I want to be a Web Developer or Mobile  Developer.😍😍 
 
-##  Language & Tools
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=aomsk&label=Profile%20views&color=0e75b6&style=flat" alt="aomsk" /> </p>
+
+###  Language & Tools
 #### Frontend Development
 [![javascript](https://img.shields.io/static/v1?label=&message=javascript&color=%231b1b1b&style=for-the-badge&logo=javascript)](https://)
 [![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=%231b1b1b&style=for-the-badge&logo=typescript)](https://)
@@ -30,9 +32,8 @@ I want to be a Web Developer or Mobile  Developer.😍😍
 [![visual studio code](https://img.shields.io/static/v1?label=&message=visual+studio+code&color=%231b1b1b&style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)](https://)
 [![postman](https://img.shields.io/static/v1?label=&message=postman&color=%231b1b1b&style=for-the-badge&logo=postman)](https://)
 
-## Beginner & Interesting
+### Beginner & Interesting
 [![angular](https://img.shields.io/static/v1?label=&message=angular&color=%231b1b1b&style=for-the-badge&logo=angular&logoColor=%23DD0031)](https://)
-[![flutter](https://img.shields.io/static/v1?label=&message=flutter&color=%231b1b1b&style=for-the-badge&logo=flutter&logoColor=%2302569B)](https://)
 [![go](https://img.shields.io/static/v1?label=&message=go&color=%231b1b1b&style=for-the-badge&logo=go)](https://)
 [![docker](https://img.shields.io/static/v1?label=&message=docker&color=%231b1b1b&style=for-the-badge&logo=docker)](https://)
 [![jest](https://img.shields.io/static/v1?label=&message=jest&color=%231b1b1b&style=for-the-badge&logo=jest&logoColor=%23C21325)](https://)
