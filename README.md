@@ -40,6 +40,9 @@ I want to be a Web Developer or Mobile  Developer.😍😍
 [![vitest](https://img.shields.io/static/v1?label=&message=vitest&color=%231b1b1b&style=for-the-badge&logo=vitest)](https://)
 
 ## Most Used Languages & GitHub Stats
-<p align="left"></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aomsk&show_icons=true&locale=en&layout=compact" alt="aomsk" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aomsk&show_icons=true&locale=en" alt="aomsk" /></p>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aomsk&layout=compact&theme=radical)
+![Aomsk's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aomsk&show_icons=true&theme=radical)
+
+
+
+
