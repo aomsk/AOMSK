@@ -26,15 +26,11 @@ I want to be a Web Developer or Mobile  Developer.😍😍
   
 #### Design and Development Tools
 [![figma](https://img.shields.io/static/v1?label=&message=figma&color=%231b1b1b&style=for-the-badge&logo=figma)](https://)
-[![adobe xd](https://img.shields.io/static/v1?label=&message=adobe+xd&color=%231b1b1b&style=for-the-badge&logo=adobexd)](https://)
 [![git](https://img.shields.io/static/v1?label=&message=git&color=%231b1b1b&style=for-the-badge&logo=git)](https://)
 [![visual studio code](https://img.shields.io/static/v1?label=&message=visual+studio+code&color=%231b1b1b&style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)](https://)
 [![postman](https://img.shields.io/static/v1?label=&message=postman&color=%231b1b1b&style=for-the-badge&logo=postman)](https://)
 
 ### Beginner & Interesting
-[![angular](https://img.shields.io/static/v1?label=&message=angular&color=%231b1b1b&style=for-the-badge&logo=angular&logoColor=%23DD0031)](https://)
-[![go](https://img.shields.io/static/v1?label=&message=go&color=%231b1b1b&style=for-the-badge&logo=go)](https://)
-[![docker](https://img.shields.io/static/v1?label=&message=docker&color=%231b1b1b&style=for-the-badge&logo=docker)](https://)
 [![jest](https://img.shields.io/static/v1?label=&message=jest&color=%231b1b1b&style=for-the-badge&logo=jest&logoColor=%23C21325)](https://)
 [![cypress](https://img.shields.io/static/v1?label=&message=cypress&color=%231b1b1b&style=for-the-badge&logo=cypress)](https://)
 [![vitest](https://img.shields.io/static/v1?label=&message=vitest&color=%231b1b1b&style=for-the-badge&logo=vitest)](https://)
