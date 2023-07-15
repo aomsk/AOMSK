@@ -30,7 +30,7 @@ I want to be a Web Developer or Mobile  Developer.😍😍
 [![visual studio code](https://img.shields.io/static/v1?label=&message=visual+studio+code&color=%231b1b1b&style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)](https://)
 [![postman](https://img.shields.io/static/v1?label=&message=postman&color=%231b1b1b&style=for-the-badge&logo=postman)](https://)
 
-### Beginner & Interesting
+### Interesting
 [![jest](https://img.shields.io/static/v1?label=&message=jest&color=%231b1b1b&style=for-the-badge&logo=jest&logoColor=%23C21325)](https://)
 [![cypress](https://img.shields.io/static/v1?label=&message=cypress&color=%231b1b1b&style=for-the-badge&logo=cypress)](https://)
 [![vitest](https://img.shields.io/static/v1?label=&message=vitest&color=%231b1b1b&style=for-the-badge&logo=vitest)](https://)
