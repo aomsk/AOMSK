@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AOMSK
+- 👋 Hi, I’m @AOMSK😊😊😊
 - IT17 KMITL 
 
 <!---
