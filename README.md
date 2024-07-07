@@ -1,5 +1,5 @@
 <h1>👋 Hi I'm Sipang</h1>
-I want to be a Web Developer or Mobile  Developer.😍😍 
+I want to be a Web Developer and Mobile Developer.😍😍 
 
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=aomsk&label=Profile%20views&color=0e75b6&style=flat" alt="aomsk" /> </p>
 
